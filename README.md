@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🌱 Computer Science Student
-- 🖥️ Aspiring Software Engineer
+- 🖥️ Majoring in Computer Science
+- ⚙️ Aspiring Software Engineer
 - 🎯 Considering Web Development
 ---
 
