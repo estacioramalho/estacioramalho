@@ -4,8 +4,7 @@
 - ⚙️ Aspiring Software Engineer
 - 🎯 Studying Web Development
 
----
-
+# Skills
 <p align="center"><strong>Currently Learning</strong></p>
 
 <p align="center">
@@ -22,7 +21,7 @@
   </a>
 </p>
 
-<p align="center"><strong>Softwares Used</strong></p>
+<p align="center"><strong>Softwares</strong></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
