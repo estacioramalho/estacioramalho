@@ -1,7 +1,8 @@
 # Hi there 👋
 
 - 🌱 Computer Science Student
-- 🎯 Aspiring Web Developer
+- 🖥️ Aspiring Software Engineer
+- 🎯 Considering Web Development
 ---
 
 <p align="center"><strong>Currently Learning</strong></p>
