@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi There 👋
 
 - 🖥️ Majoring in Computer Science
 - ⚙️ Aspiring Software Engineer
