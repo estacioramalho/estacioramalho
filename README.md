@@ -2,7 +2,7 @@
 
 - 🖥️ Majoring in Computer Science
 - ⚙️ Aspiring Software Engineer
-- 🎯 Considering Web Development
+- 🎯 Studying Web Development
 ---
 
 <p align="center"><strong>Currently Learning</strong></p>
