@@ -21,14 +21,6 @@
   </a>
 </p>
 
-<p align="center"><strong>Softwares</strong></p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,unreal,blender" />
-  </a>
-</p>
-
 # Projects
 
 In Construction...
