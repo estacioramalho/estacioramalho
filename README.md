@@ -4,6 +4,7 @@
 
 ## 🙋‍♂️ About Me
 <code>👨‍💻 I'm a Student</code>
+<img align="right" img src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="340" height="310">
 - 🖥️ Majoring in Computer Science
 - ⚙️ Aspiring Software Engineer
 - 🎯 Studying Web Development
