@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Estácio Ramalho.</h1>
 
 ## 🙋‍♂️ About Me
-<code> 👨‍💻 I'm a Student</code>
+<code>👨‍💻 I'm a Student</code>
 - 🖥️ Majoring in Computer Science
 - ⚙️ Aspiring Software Engineer
 - 🎯 Studying Web Development
