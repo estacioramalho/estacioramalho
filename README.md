@@ -8,7 +8,7 @@
 <p> • 🖥️ I am a Computer Science student who is passionate about pursuing a career as a Software Engineer.</p>
 <p> • ⚙️ As an aspiring Software Engineer, I am dedicated to continuously learning and expanding my knowledge in the field.</p>
 <p> • 🎯 Currently, I am focused on studying Web Development to deepen my understanding of building and deploying modern web applications.</p>
-<p> • 🎮 In my free time, I indulge my passion for game development and concept design, experimenting with new technologies and techniques to bring my ideas to life.
+<p> • 🎮 In my free time, I indulge my passion for Game Development, Concept Design and Worldbuilding, experimenting with new technologies and techniques to bring my ideas to life.
 
 ## 🧰 Skills
 <p align="center"><strong>Currently Learning</strong></p>
