@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 <code>👨‍💻 I'm a Student</code>
-<img align="right" img src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="306" height="279">
+<img align="right" img src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="367" height="335">
 <p> • 🖥️ I am a Computer Science student who is passionate about pursuing a career as a Software Engineer.</p>
 <p> • ⚙️ As an aspiring Software Engineer, I am dedicated to continuously learning and expanding my knowledge in the field.</p>
 <p> • 🎯 Currently, I am focused on studying Web Development to deepen my understanding of building and deploying modern web applications.</p>
