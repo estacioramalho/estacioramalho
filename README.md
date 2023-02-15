@@ -10,7 +10,7 @@
 <p> • 🎯 Currently, I am focused on studying Web Development to deepen my understanding of building and deploying modern web applications.</p>
 <p> • 🎮 In my free time, I indulge my passion for Game Development, Concept Design and Worldbuilding, experimenting with new technologies and techniques to bring my ideas to life.
 
-## 🧰 Skills
+## 🧰 Tech Stack
 <p align="center"><strong>Currently Learning</strong></p>
 
 <p align="center">
