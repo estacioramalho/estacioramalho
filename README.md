@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,angular,php,unreal,unity,blender,java" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,angular,php,java" />
   </a>
 </p>
 
