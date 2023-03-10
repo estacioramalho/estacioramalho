@@ -10,17 +10,29 @@
 <p> • 🎯 Currently, I am focused on studying Web Development to deepen my understanding of building and deploying modern web applications.</p>
 <p> • 💡 Additionally, I am passionate about Concept Design and during my free time i enjoy experimenting with new technologies and techniques to create prototypes and proof-of-concept demos to bring my ideas to life.
 
-## 🧰 Tech Stack
-<p align="center"><strong>Currently Learning</strong></p>
-
+## 🧰 Tech Stack (Currently Learning)
+<p align="center"><strong>Languages</strong></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,redux,c" />
+    <img src="https://skillicons.dev/icons?i=js,c" />
+  </a>
+</p>
+
+<p align="center"><strong>Front End</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,redux" />
+  </a>
+</p>
+ 
+<p align="center"><strong>Back End</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
 </p>
 
 <p align="center"><strong>Interested In</strong></p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp,ts,angular,php,java" />
