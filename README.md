@@ -32,13 +32,6 @@
   </a>
 </p>
 
-<p align="center"><strong>Interested In</strong></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,ts,angular,php,java" />
-  </a>
-</p>
-
 ## 🔧 Projects
 
 Soon...
