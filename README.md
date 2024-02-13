@@ -7,8 +7,9 @@
 <code>👨‍💻 Software Engineer </code>
 <p>‎ </p>
 <p> • 🖥️ Computer Engineering Student</p>
-<p> • 👨‍💻 Aspiring Backend Developer</p>
-<p> • 🎮 Hobbyist Game Designer</p>
+<p> • 👨‍💻 Aspiring Full Stack Developer</p>
+<p> • 🎨 Amateur Concept Designer</p>
+<p> • 🎮 Hobbyist Game Developer</p>
 <p> • ⚙️ Open Source Enthusiast</p>
 <p>‎ </p>
 
