@@ -8,8 +8,8 @@
 <p>‎ </p>
 <p> • 🖥️ Computer Engineering Student</p>
 <p> • 👨‍💻 Aspiring Full Stack Developer</p>
-<p> • 🎮 Indie Game Designer</p>
-<p> • ⚙️ Open Source Enthusiast</p>
+<p> • 🎮 Indie Game Developer</p>
+<p> • ⚙️ AI Enthusiast</p>
 <p>‎ </p>
 
 ## 🧰 Tech Stack
