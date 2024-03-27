@@ -9,7 +9,7 @@
 <p> • 🖥️ Computer Engineering Student</p>
 <p> • 👨‍💻 Aspiring Full Stack Developer</p>
 <p> • 🎮 Indie Game Developer</p>
-<p> • ⚙️ AI Enthusiast</p>
+<p> • 🤖 AI Enthusiast</p>
 <p>‎ </p>
 
 ## 🧰 Tech Stack
