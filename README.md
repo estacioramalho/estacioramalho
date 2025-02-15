@@ -7,13 +7,12 @@
 <code>👨‍💻 Software Engineer </code>
 <p>‎ </p>
 <p> • 🖥️ Computer Engineering Student</p>
-<p> • 👨‍💻 Aspiring Full Stack Developer</p>
-<p> • 🎮 Indie Game Developer</p>
-<p> • 🤖 AI Enthusiast</p>
+<p> • 👨‍💻 Backend Developer</p>
+<p> • ⚙️ Open Source Enthusiast</p>
 <p>‎ </p>
 
 ## 🧰 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,html,css,react,dotnet,azure"/>
+    <img src="https://skillicons.dev/icons?i=cs,ts,java,react,dotnet,nestjs,azure"/>
   </a>
