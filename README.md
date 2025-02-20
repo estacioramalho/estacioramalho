@@ -7,7 +7,7 @@
 <code>👨‍💻 Software Engineer </code>
 <p>‎ </p>
 <p> • 🖥️ Computer Engineering Student</p>
-<p> • 👨‍💻 Backend Developer</p>
+<p> • 👨‍💻 Full Stack Developer</p>
 <p> • ⚙️ Open Source Enthusiast</p>
 <p>‎ </p>
 
