@@ -14,5 +14,5 @@
 ## 🧰 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts,java,react,dotnet,nestjs,spring,azure"/>
+    <img src="https://skillicons.dev/icons?i=cs,ts,java,angular,react,dotnet,nestjs,spring,azure"/>
   </a>
