@@ -10,11 +10,28 @@
 
 # 🧰 Projects
 
-## Product Store 🛒
-<img align="left" img src="https://github.com/estacioramalho/product-store/raw/main/screenshots/HomePageDark.png" width="50%" height="50%">
-<p>A Full Stack web application for managing products.</p>
-<p><b>Frontend:</b> React, Chakra UI, Zustand, Vite</p>
-<p><b>Backend:</b> Express, MongoDB, Mongoose, dotenv</p>
-<p><b>Dev Tools:</b> Nodemon</p>
-<p><b>Deployment:</b> Render</p>
-https://github.com/estacioramalho/product-store
+## Product Store 🛒  
+
+<div align="left">
+  <a href="https://github.com/estacioramalho/product-store">
+    <img src="https://github.com/estacioramalho/product-store/raw/main/screenshots/HomePageDark.png" 
+         alt="Product Store Screenshot" 
+         width="80%" 
+         style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+  </a>
+</div>
+
+<p align="left">
+A Full Stack web application for managing products
+</p>
+
+<div align="left">
+
+**Frontend:** React · Chakra UI · Zustand · Vite  
+**Backend:** Express · MongoDB · Mongoose · dotenv  
+**Dev Tools:** Nodemon  
+**Deployment:** Render  
+
+🔗 [View Repository](https://github.com/estacioramalho/product-store)
+
+</div>
