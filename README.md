@@ -2,17 +2,19 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Estácio Ramalho.</h1>
 
-## 🙋 About Me
-<img align="right" img src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="321" height="294">
+# 🙋 About Me
 <code>👨‍💻 Software Engineer </code>
-<p>‎ </p>
-<p> • 🖥️ Computer Engineering Student</p>
-<p> • 👨‍💻 Full Stack Developer</p>
-<p> • ⚙️ Open Source Enthusiast</p>
-<p>‎ </p>
+<p></p>
+<p>‎I'm a Computer Engineering Student and Full Stack Developer with a passion for technology and a dream of advancing society through the use of softwares. </p>
+<br clear="all"/>
 
-## 🧰 Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts,java,angular,react,dotnet,nestjs,spring,azure"/>
-  </a>
+# 🧰 Projects
+
+## Product Store 🛒
+<img align="left" img src="https://github.com/estacioramalho/product-store/raw/main/screenshots/HomePageDark.png" width="50%" height="50%">
+<p>A Full Stack web application for managing products.</p>
+<p><b>Frontend:</b> React, Chakra UI, Zustand, Vite</p>
+<p><b>Backend:</b> Express, MongoDB, Mongoose, dotenv</p>
+<p><b>Dev Tools:</b> Nodemon</p>
+<p><b>Deployment:</b> Render</p>
+https://github.com/estacioramalho/product-store
