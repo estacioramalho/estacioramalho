@@ -6,7 +6,14 @@
 <code>👨‍💻 Software Engineer </code>
 <p></p>
 <p>‎I'm a Computer Engineering Student and Full Stack Developer with a passion for technology and a dream of advancing society through the use of softwares. </p>
-<br clear="all"/>
+<p></p>
+
+# 🧰 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,ts,java,angular,react,dotnet,nestjs,spring,azure"/>
+  </a
+<p></p>
 
 # 🧰 Projects
 
