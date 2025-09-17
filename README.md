@@ -1,4 +1,4 @@
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p align="left">
   <b>💻 Languages</b><br>
@@ -20,9 +20,9 @@
   <img src="https://skillicons.dev/icons?i=azure,aws" />
 </p>
 
-# 🧰 Projects
+## 🧰 Projects
 
-## Product Store 🛒  
+### Product Store 🛒  
 
 <div align="left">
   <a href="https://github.com/estacioramalho/product-store">
