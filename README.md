@@ -22,7 +22,13 @@
 </a>
 
 **Product Store 🛒**  
-A Full Stack web application for managing products.  
+A Full Stack web application for managing products.
+<p>
+  <strong>Frontend:</strong> React, Chakra UI, Zustand, Vite<br/>
+  <strong>Backend:</strong> Express, MongoDB, Mongoose, dotenv<br/>
+  <strong>Dev Tools:</strong> Nodemon<br/>
+  <strong>Deployment:</strong> Render
+</p>
 
 [![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/product-store)
 
