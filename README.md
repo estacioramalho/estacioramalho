@@ -27,7 +27,7 @@
 </a>
 
 **Product Store 🛒**  
-A Full Stack web application for managing products.
+A product management system enabling CRUD operations, real-time updates, and inventory tracking.
 <p>
   <strong>Language:</strong> JavaScript<br/>
   <strong>Frontend:</strong> React, Chakra UI, Zustand, Vite<br/>
