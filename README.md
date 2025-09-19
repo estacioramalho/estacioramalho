@@ -24,6 +24,7 @@
 **Product Store 🛒**  
 A Full Stack web application for managing products.
 <p>
+  <strong>Language:</strong> JavaScript<br/>
   <strong>Frontend:</strong> React, Chakra UI, Zustand, Vite<br/>
   <strong>Backend:</strong> Express, MongoDB, Mongoose, dotenv<br/>
   <strong>Dev Tools:</strong> Nodemon<br/>
