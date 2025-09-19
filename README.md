@@ -1,4 +1,4 @@
-## 🧰 Preferable Stack
+## 🧰 Tech Stack
 
 <p align="left">
   <b>💻 Languages</b><br>
@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-## 🧰 Full Stack Projects
+## 🧰 Projects
 
 <a href="https://github.com/estacioramalho/product-store">
   <img align="left" src="https://github.com/estacioramalho/product-store/raw/main/screenshots/HomePageDark.png" width="420" alt="Product Store Screenshot">
