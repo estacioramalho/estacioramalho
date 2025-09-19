@@ -2,22 +2,17 @@
 
 <p align="left">
   <b>💻 Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,java" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,java" />
 </p>
 
 <p align="left">
-  <b>🎨 Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=angular,react,vite" />
+  <b>🔧 Frameworks</b><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,nestjs,spring" />
 </p>
 
 <p align="left">
-  <b>🔧 Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=dotnet,express,nestjs,spring,mongodb" />
-</p>
-
-<p align="left">
-  <b>☁️ Cloud</b><br>
-  <img src="https://skillicons.dev/icons?i=azure,aws" />
+  <b>🔧 Database</b><br>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ## 🧰 Projects
