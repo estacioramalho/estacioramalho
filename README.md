@@ -1,4 +1,4 @@
-## 🧰 Tech Stack
+## 🧰 Preferable Stack
 
 <p align="left">
   <b>💻 Languages</b><br>
@@ -15,30 +15,17 @@
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-## 🧰 Projects
+## 🧰 Full Stack Projects
 
-### Product Store 🛒  
+<a href="https://github.com/estacioramalho/product-store">
+  <img align="left" src="https://github.com/estacioramalho/product-store/raw/main/screenshots/HomePageDark.png" width="420" alt="Product Store Screenshot">
+</a>
 
-<div align="left">
-  <a href="https://github.com/estacioramalho/product-store">
-    <img src="https://github.com/estacioramalho/product-store/raw/main/screenshots/HomePageDark.png" 
-         alt="Product Store Screenshot" 
-         width="80%" 
-         style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
-  </a>
-</div>
+**Product Store 🛒**  
+A Full Stack web application for managing products.  
 
-<p align="left">
-A Full Stack web application for managing products
-</p>
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/product-store)
 
-<div align="left">
+<br clear="left"/>
 
-**Frontend:** React · Chakra UI · Zustand · Vite  
-**Backend:** Express · MongoDB · Mongoose · dotenv  
-**Dev Tools:** Nodemon  
-**Deployment:** Render  
 
-🔗 [View Repository](https://github.com/estacioramalho/product-store)
-
-</div>
