@@ -2,7 +2,7 @@
 
 <p align="left">
   <b>💻 Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=cs,ts,java,py" />
+  <img src="https://skillicons.dev/icons?i=py,cs,ts,java" />
 </p>
 
 <p align="left">
