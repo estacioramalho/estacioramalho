@@ -7,7 +7,7 @@
 
 <p align="left">
   <b>🔧 Frameworks</b><br>
-  <img src="https://skillicons.dev/icons?i=dotnet,nestjs,spring" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet,nestjs,spring" />
 </p>
 
 <p align="left">
