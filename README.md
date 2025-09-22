@@ -23,11 +23,14 @@
 ## 🧰 Projects
 
 <a href="https://github.com/estacioramalho/product-store">
-  <img align="left" src="https://github.com/estacioramalho/product-store/raw/main/screenshots/HomePageDark.png" width="420" alt="Product Store Screenshot">
+  <img align="left" src="https://github.com/estacioramalho/product-store/raw/main/screenshots/HomePageDark.png" width="520" alt="Product Store Screenshot">
 </a>
 
 **Product Store 🛒**  
-A product management system enabling CRUD operations, real-time updates, and inventory tracking.
+<p>A product management system enabling CRUD operations, real-time updates, and inventory tracking.</p>
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/product-store)
+
 <p>
   <strong>Language:</strong> JavaScript<br/>
   <strong>Frontend:</strong> React, Chakra UI, Zustand, Vite<br/>
@@ -36,16 +39,17 @@ A product management system enabling CRUD operations, real-time updates, and inv
   <strong>Deployment:</strong> Render
 </p>
 
-[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/product-store)
-
-<br clear="left"/>
+---
 
 <a href="https://github.com/estacioramalho/chat-app">
-  <img align="left" src="https://github.com/estacioramalho/chat-app/raw/main/screenshots/Chat.png" width="420" alt="Chat App Screenshot">
+  <img align="left" src="https://github.com/estacioramalho/chat-app/raw/main/screenshots/Chat.png" width="520" alt="Chat App Screenshot">
 </a>
 
 **Chat App 💬**  
-A real-time chat app for messaging, image sharing, profile management, online status, and customizable themes.
+<p>A real-time chat app for messaging, image sharing, profile management, online status, and customizable themes.</p>
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/chat-app)
+
 <p>
   <strong>Language:</strong> JavaScript<br/>
   <strong>Frontend:</strong> React, Zustand, DaisyUI, Tailwind CSS, Vite<br/>
@@ -53,8 +57,3 @@ A real-time chat app for messaging, image sharing, profile management, online st
   <strong>Dev Tools:</strong> Nodemon<br/>
   <strong>Deployment:</strong> Render
 </p>
-
-[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/chat-app)
-
-
-
