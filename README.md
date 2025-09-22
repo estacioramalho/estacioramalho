@@ -35,9 +35,9 @@ A product management system enabling CRUD operations, real-time updates, and inv
   <strong>Dev Tools:</strong> Nodemon<br/>
   <strong>Deployment:</strong> Render
 
-
 [![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/product-store)
 
+</p>
 <br clear="left"/>
 
 <a href="https://github.com/estacioramalho/chat-app">
@@ -52,9 +52,9 @@ A real-time chat app for messaging, image sharing, profile management, online st
   <strong>Backend:</strong> Express, MongoDB, Mongoose, dotenv, Socket.IO, Cloudinary <br/>
   <strong>Dev Tools:</strong> Nodemon<br/>
   <strong>Deployment:</strong> Render
-</p>
 
 [![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/chat-app)
+</p>
 
 <br clear="left"/>
 
