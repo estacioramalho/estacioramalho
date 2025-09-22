@@ -56,7 +56,6 @@ A real-time chat app for messaging, image sharing, profile management, online st
 [![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/chat-app)
 
 </p>
-
 <br clear="left"/>
 
 
