@@ -1,3 +1,13 @@
+## 🙋 About Me
+<img align="right" img src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="321" height="294">
+<code>👨‍💻 Software Engineer </code>
+<p>‎ </p>
+<p> • 🖥️ Computer Engineering Student</p>
+<p> • 👨‍💻 Backend Developer</p>
+<p> • 👨‍💻 Indie Game Developer</p>
+<p> • ⚙️ Open Source Enthusiast</p>
+<p>‎ </p>
+
 ## 🧰 Tech Stack
 
 <p align="left">
