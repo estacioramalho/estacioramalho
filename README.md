@@ -23,7 +23,7 @@
 ## 🧰 Projects
 
 <a href="https://github.com/estacioramalho/product-store">
-  <img align="left" src="https://github.com/estacioramalho/product-store/raw/main/screenshots/HomePageDark.png" width="520" alt="Product Store Screenshot">
+  <img align="right" src="https://github.com/estacioramalho/product-store/raw/main/screenshots/HomePageDark.png" width="520" alt="Product Store Screenshot">
 </a>
 
 **Product Store 🛒**  
@@ -42,7 +42,7 @@
 ---
 
 <a href="https://github.com/estacioramalho/chat-app">
-  <img align="left" src="https://github.com/estacioramalho/chat-app/raw/main/screenshots/Chat.png" width="520" alt="Chat App Screenshot">
+  <img align="right" src="https://github.com/estacioramalho/chat-app/raw/main/screenshots/Chat.png" width="520" alt="Chat App Screenshot">
 </a>
 
 **Chat App 💬**  
