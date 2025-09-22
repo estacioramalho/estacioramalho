@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=azure,aws" />
 </p>
 
-## 🧰 Projects
+## 🧰 Full Stack Projects
 
 <a href="https://github.com/estacioramalho/product-store">
   <img align="right" src="https://github.com/estacioramalho/product-store/raw/main/screenshots/HomePageDark.png" width="520" alt="Product Store Screenshot">
