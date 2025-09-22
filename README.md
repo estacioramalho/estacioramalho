@@ -34,9 +34,27 @@ A product management system enabling CRUD operations, real-time updates, and inv
   <strong>Backend:</strong> Express, MongoDB, Mongoose, dotenv<br/>
   <strong>Dev Tools:</strong> Nodemon<br/>
   <strong>Deployment:</strong> Render
-</p>
+
 
 [![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/product-store)
+
+<br clear="left"/>
+
+<a href="https://github.com/estacioramalho/chat-app">
+  <img align="left" src="https://github.com/estacioramalho/chat-app/raw/main/screenshots/Chat.png" width="420" alt="Chat App Screenshot">
+</a>
+
+**Chat App 💬**  
+A real-time chat app for messaging, image sharing, profile management, online status, and customizable themes.
+<p>
+  <strong>Language:</strong> JavaScript<br/>
+  <strong>Frontend:</strong> React, Zustand, DaisyUI, Tailwind CSS, Vite<br/>
+  <strong>Backend:</strong> Express, MongoDB, Mongoose, dotenv, Socket.IO, Cloudinary <br/>
+  <strong>Dev Tools:</strong> Nodemon<br/>
+  <strong>Deployment:</strong> Render
+</p>
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/chat-app)
 
 <br clear="left"/>
 
