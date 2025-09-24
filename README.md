@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  <b>🔧 Database</b><br>
+  <b>🔧 Databases</b><br>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
