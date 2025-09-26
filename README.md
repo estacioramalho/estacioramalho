@@ -55,7 +55,7 @@
 </a>
 
 ### Chat App 💬
-<p>A real-time chat app for messaging, image sharing, profile management, online status, and customizable themes.</p>
+<p>A chat app for messaging, image sharing, profile management, online status, and customizable themes.</p>
 <p>
   <strong>Language:</strong> JavaScript<br/>
   <strong>Frontend:</strong> React, Zustand, DaisyUI, Tailwind CSS, Vite<br/>
@@ -67,3 +67,19 @@
 [![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/chat-app)
 
 ---
+
+<a href="https://github.com/estacioramalho/chat-app">
+  <img align="right" src="https://github.com/estacioramalho/interview-platform/raw/main/screenshots/InterviewRoom.png" width="520" alt="Chat App Screenshot">
+</a>
+
+### Interview Platform 💻
+<p>A technical interview platform for scheduling interviews, live video calls, collaborative coding, comments & ratings, and recordings.</p>
+<p>
+  <strong>Language:</strong> TypeScript<br/>
+  <strong>Frontend:</strong> Next.js, Tailwind CSS, shadcn/ui (Radix UI), next-themes, react-hot-toast, Monaco Editor<br/>
+  <strong>Backend:</strong> Convex, Clerk, Stream Video<br/>
+  <strong>Dev Tools:</strong> ESLint, PostCSS, Convex CLI<br/>
+  <strong>Deployment:</strong> Vercel
+</p>
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/estacioramalho/interview-platform)
