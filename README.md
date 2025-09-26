@@ -68,7 +68,7 @@
 
 ---
 
-<a href="https://github.com/estacioramalho/chat-app">
+<a href="https://github.com/estacioramalho/interview-platform">
   <img align="right" src="https://github.com/estacioramalho/interview-platform/raw/main/screenshots/InterviewRoom.png" width="520" alt="Chat App Screenshot">
 </a>
 
